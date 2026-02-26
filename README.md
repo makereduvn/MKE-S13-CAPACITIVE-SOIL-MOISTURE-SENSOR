@@ -60,7 +60,7 @@ Mạch xử lý trên module sẽ chuyển đổi sự thay đổi điện dung 
 - Nhận tín hiệu của cảm biến qua chân S (SIGNAL).
 <table><thead>
   <tr>
-    <th>SIG (Analog Out)</th>
+    <th>SIGNAL (Analog Out)</th>
     <th>Trạng thái</th>
   </tr></thead>
 <tbody>
@@ -97,6 +97,7 @@ Nếu bắt đầu tự án mới cần cài đặt Extension **MKE_ONE_MICROBIT
 ## Hình ảnh sản phẩm
 ![MKE-S13 SOIL_MOISTURE](/extras/MKE-S13_2.png)
 ![MKE-S13 SOIL_MOISTURE](/extras/MKE-S13_3.png)
+
 
 
 
