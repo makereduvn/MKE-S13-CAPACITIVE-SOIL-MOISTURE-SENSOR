@@ -56,7 +56,7 @@ Mạch xử lý trên module sẽ chuyển đổi sự thay đổi điện dung 
 
 ## Hướng dẫn sử dụng
 ### Hướng dẫn kết nối
-- Cấp nguồn 5VDC cho mạch qua hai chân - và +.
+- Cấp nguồn 5VDC cho mạch qua hai chân `-` và `+`.
 - Nhận tín hiệu của cảm biến qua chân `S` (SIGNAL).
 <table><thead>
   <tr>
